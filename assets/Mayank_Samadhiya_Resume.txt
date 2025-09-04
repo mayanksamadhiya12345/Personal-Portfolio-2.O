@@ -1,0 +1,171 @@
+MAYANK SAMADHIYA
+Software Developer | Research Engineer | Tech Enthusiast
+
+📧 mayanksamadhiya12345@gmail.com
+📱 +91-7489775669
+📍 Bengaluru, India
+🔗 LinkedIn: linkedin.com/in/mayank-samadhiya-6827301a7/
+🔗 GitHub: github.com/mayanksamadhiya12345
+🔗 LeetCode: mayanksamadhiya1234
+
+═══════════════════════════════════════════════════════════════════════════════
+
+PROFESSIONAL SUMMARY
+═══════════════════════════════════════════════════════════════════════════════
+Experienced Research Engineer at LG SOFT India, specializing in backend development for webOS TVs
+using C++/Qt and embedded systems. M.Tech graduate in AI & ML with expertise in hardware-software 
+integration, system-level programming, and machine learning. Strong problem-solver with 1000+ 
+LeetCode problems solved and recognized for innovative contributions to key projects.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+EDUCATION
+═══════════════════════════════════════════════════════════════════════════════
+🎓 Integrated M.Tech in Computer Science Engineering (AI & ML)
+   Vellore Institute of Technology, Bhopal | 2019 - 2024
+   CGPA: 9.09/10
+
+🎓 Higher Secondary Education (Science)
+   Government Model Higher Secondary School, Vijaypur (M.P.) | 2018-2019
+   Percentage: 94.4% | Subjects: Physics, Chemistry, Mathematics
+
+🎓 High School Education
+   Government Model Higher Secondary School, Vijaypur (M.P.) | 2016-2017
+   Percentage: 92.5% | Subjects: Mathematics, Science
+
+═══════════════════════════════════════════════════════════════════════════════
+
+WORK EXPERIENCE
+═══════════════════════════════════════════════════════════════════════════════
+
+🔹 Research Engineer | LG SOFT India, Bangalore | June 2024 - Present
+   • Built backend and embedded features for webOS TVs using C++/Qt and C
+   • Developed hardware and system-level integration solutions
+   • Created smooth and responsive graphical UIs with QML for webOS TV applications
+   • Worked on client-server communication using the Wayland protocol
+   • Contributed to key projects: Gamepad Support and Screen Magnification feature
+   • Focused on accessibility and user interaction enhancements
+
+🔹 SDE Intern | LG SOFT India, Bangalore | July 2023 - May 2024
+   • Supported backend features for webOS TVs using C++/Qt, focusing on system functionality
+   • Contributed to front-end development with QML, enhancing UI for seamless user experience
+   • Collaborated on bug fixing and feature verification for high-quality software
+   • Ensured smooth functionality and optimal performance of TV applications
+
+🔹 Mentee | Microsoft Engage 2022 Program | May 2022 - June 2022
+   • Selected through rigorous 5-round selection process, reached HR interview
+   • Developed Movie Recommendation web application using Flask and MySQL
+   • Implemented machine learning algorithms for personalized recommendations
+   • Technologies used: Flask, Python, HTML, CSS, JavaScript, MySQL, APIs
+   • Gained insights into end-to-end project management and development lifecycle
+
+═══════════════════════════════════════════════════════════════════════════════
+
+TECHNICAL SKILLS
+═══════════════════════════════════════════════════════════════════════════════
+
+Programming Languages:
+🔸 C++ (Advanced) | Java (Intermediate) | SQL (Intermediate) | JavaScript (Intermediate)
+🔸 Qt/QML (Advanced) | C (Intermediate)
+
+Frameworks & Technologies:
+🔸 Bootstrap | Flask | webOS Development
+🔸 Machine Learning | Web Development | Embedded Systems
+
+Development Tools:
+🔸 Git & GitHub | Jenkins | VSCode | Jupyter Notebook | GIMP
+🔸 MobaXterm | JIRA | Linux/Unix | Windows
+
+Specializations:
+🔸 Problem Solving & Object-Oriented Programming | Hardware-Software Integration
+🔸 System-Level Programming | Backend Development | UI/UX with QML
+🔸 Wayland Protocol | Embedded Systems | webOS TV Development
+
+═══════════════════════════════════════════════════════════════════════════════
+
+KEY PROJECTS
+═══════════════════════════════════════════════════════════════════════════════
+
+🚀 Personalized Movie Recommendation System
+   • Built hybrid recommendation system using content-based and collaborative filtering
+   • Utilized Cosine Similarity and Normal Predictor algorithm for personalized suggestions
+   • Features based on user behavior and search patterns
+   • Technologies: Python, Machine Learning, HTML/CSS, JavaScript, MySQL
+   • GitHub: github.com/mayanksamadhiya12345/Movie-Recommendation-WebApp
+
+🚀 webOS TV Backend Development (Professional)
+   • Developed backend and embedded features for LG webOS TVs using C++/Qt
+   • Implemented Gamepad Support and Screen Magnification accessibility features
+   • Created responsive UI components using QML for seamless user experience
+   • Worked on Wayland protocol for client-server communication
+
+🚀 Flight Fare Prediction WebApp
+   • Developed ML model to predict airline prices for different routes and dates
+   • Deployed on Railway platform with interactive user interface
+   • Technologies: Python, Flask, Machine Learning, HTML/CSS
+   • Live Demo: flight-fare-prediction.up.railway.app
+   • GitHub: github.com/mayanksamadhiya12345/Flight_Fare_Prediction
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ACHIEVEMENTS & CERTIFICATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+🏆 Professional Recognition:
+   • Cleared LG SWPCT exam - only qualified candidate among 100+ team members (April 2025)
+   • Awarded Best Team Award for exceptional performance in Compositor project (March 2025)
+   • Recognized as Innovative Thinker for contributions to Compositor Project at LG (October 2024)
+
+🏆 Problem Solving Excellence:
+   • 1000+ coding problems solved on LeetCode, ranked in top percentile
+   • Strong foundation in Data Structures and Algorithms
+   • LeetCode Profile: mayanksamadhiya1234
+
+🏆 Program Selections:
+   • Qualified for Microsoft Engage Program (May 2022)
+   • Successfully cleared rigorous selection processes for prestigious programs
+
+🏆 Certifications:
+   • Google Data Analytics (Coursera, December 2022)
+   • Java Spring Boot (VMware IT Academy, SmartBridge, May 2022)
+   • HTML, CSS, and JavaScript for Web Developers (Coursera, July 2020)
+
+🏆 Academic Excellence:
+   • Outstanding academic performance with CGPA: 9.09/10
+   • Strong foundation in AI/ML, Operating Systems, DBMS, Computer Networks
+
+═══════════════════════════════════════════════════════════════════════════════
+
+CORE COMPETENCIES
+═══════════════════════════════════════════════════════════════════════════════
+
+💡 Technical Skills:
+   • Full-Stack Web Development | Machine Learning | Database Design
+   • Problem Solving & Algorithm Design | System Architecture
+
+💡 Soft Skills:
+   • Leadership & Team Management | Effective Communication
+   • Project Management | Adaptability | Creative Problem Solving
+
+💡 Professional Attributes:
+   • Self-motivated learner | Detail-oriented | Result-driven
+   • Strong work ethic | Collaborative team player
+
+═══════════════════════════════════════════════════════════════════════════════
+
+INTERESTS & HOBBIES
+═══════════════════════════════════════════════════════════════════════════════
+• Competitive Programming & Algorithm Challenges
+• Open Source Development & Community Contribution
+• Technology Trends & Innovation Research
+• Community Service & Social Impact Projects
+• Continuous Learning & Skill Development
+
+═══════════════════════════════════════════════════════════════════════════════
+
+REFERENCES
+═══════════════════════════════════════════════════════════════════════════════
+Available upon request
+
+═══════════════════════════════════════════════════════════════════════════════
+Last Updated: July 2025
